@@ -41,11 +41,13 @@ Lalu, setelah kita membuat file "tambah.php", kita akan membuat file "ubah.php" 
 ![19](screenshots/19.jpg)
 Berikut adalah tampilan untuk mengedit barang :
 ![20](screenshots/20.jpg)
+
 Dan berikut adalah tampilan untuk menampilkan data yang sudah kita edit (Disini saya mengedit pada bagian Kategori Hand Phone) :
 ![21](screenshots/21.jpg)
 
 Lalu, kita akan membuat file "hapus.php" agar kita bisa menghapus sebuah data :
 ![22](screenshots/22.jpg)
+
 Dan pada bagian HTML kita mengubah pada file "index.php" pada bagian link untuk menghapus data :
 ![23](screenshots/23.jpg)
 Berikut tampilan pada saat ingin menghapus data dan Hasil nya :
