@@ -31,6 +31,7 @@ Kita akan membuat sebuah file bernama "tambah.php" untuk menambahkan data baru k
 ![13](screenshots/13.jpg)
 Berikut adalah tampilan untuk menambahkan barang :
 ![14](screenshots/14.jpg)
+
 Dan berikut adalah tampilan untuk menampilkan data yang sudah kita tambahkan :
 ![15](screenshots/15.jpg)
 
